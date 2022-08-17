@@ -1,7 +1,6 @@
 # Python_Para_Iniciantes
 Repositório criado para documentar e armazenar dicas, códigos, exercícios e projetos que me ajudaram durante o meu processo de aprendizagem de Python.
 
-
 <h1> 
   Sejam bem-vindos!!! <br>
 </h1>
